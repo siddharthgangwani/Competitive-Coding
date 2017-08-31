@@ -1,4 +1,4 @@
 # Competitive-Coding
-Solutions for problems on SPOJ, Codechef, Codeforces
+Solutions for problems on SPOJ, CodeChef, Codeforces
 
 Handle - xproxmess
